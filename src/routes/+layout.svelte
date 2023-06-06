@@ -4,4 +4,8 @@
     <a href='/blog'>blog</a>
 </nav>
 
+<div>
+    WELCOME TO THE NEWLY HOSTED BLOG
+</div>
+
 <slot />
